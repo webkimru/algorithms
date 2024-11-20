@@ -1,0 +1,2 @@
+- add up to `target` - составлять сумму target
+- assume [əˈso͞om] - предполагать
