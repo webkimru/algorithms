@@ -1,0 +1,3 @@
+- occurrences [əˈkərəns] - вхождение
+- preserving the order of characters - сохранение порядка символов
+- map to - сопоставить с
