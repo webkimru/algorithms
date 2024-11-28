@@ -9,3 +9,8 @@
 
 2024-11-27
 - valid sudoku
+
+2024-11-28
+- two summ
+- isomorphic
+- valid sudoku
