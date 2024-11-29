@@ -11,9 +11,10 @@
 - valid sudoku
 
 2024-11-28
+- rescheduled for 2024-11-19
+
+2024-11-29
 - two summ
 - isomorphic
 - valid sudoku
-
-2024-11-29
 - top k elems
