@@ -24,3 +24,6 @@
 
 2024-12-01
 - [ ] valid anagram
+
+2024-12-02
+- [ ] group anagrams
