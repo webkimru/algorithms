@@ -30,3 +30,6 @@
 
 2024-12-03
 - [ ] h-index
+
+2024-12-05
+- [ ] can permute palindrome
