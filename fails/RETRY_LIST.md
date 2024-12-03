@@ -31,5 +31,6 @@
 2024-12-03
 - [ ] h-index
 
-2024-12-05
+2024-12-04
 - [ ] can permute palindrome
+- [ ] line reflection
